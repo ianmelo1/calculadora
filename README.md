@@ -1,2 +1,2 @@
 # calculadora
-calculadora bacana
+Trabalho de Estrutura de dados ultilizando TAD
